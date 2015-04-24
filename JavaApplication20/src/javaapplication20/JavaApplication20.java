@@ -8,7 +8,7 @@ import java.awt.Graphics2D;
 public class JavaApplication20 {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
+
         JFrame window = new MainWindow();
         
         window.setSize(864,540);
@@ -17,15 +17,8 @@ public class JavaApplication20 {
         window.setVisible(true);
         window.add(new Drawer());
         window.setVisible(true);
-=======
-        JFrame frame = new JFrame();
-        frame.setSize(1000,1000);
-        frame.setTitle("Warcraft 4");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
+
         
-        frame.add(new Drawer());
->>>>>>> origin/master
     }        
 }
     
