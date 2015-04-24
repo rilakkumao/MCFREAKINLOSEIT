@@ -5,6 +5,7 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.util.Random;
 
+<<<<<<< HEAD
 
 
 public class Drawer extends JComponent {
@@ -15,4 +16,8 @@ public class Drawer extends JComponent {
         
         
 }
+=======
+public class Drawer extends JComponent {
+    
+>>>>>>> origin/master
 }
